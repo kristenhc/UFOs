@@ -1,7 +1,7 @@
 # UFO Sightings
 
 ## Overview
-In this project, we use Javascript to add interactivity to website- allowing users to filter data on UFO sightings based on their own input.
+In this project, we use Javascript to add interactivity to a website- allowing users to filter data on UFO sightings based on their own criteria of interest/user input.
 
 ## Results
 
