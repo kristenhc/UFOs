@@ -5,11 +5,11 @@ In this project, we use Javascript to add interactivity to website- allowing use
 
 ## Results
 
-![Home Page] (homepage.png)
+![Home Page](homepage.png)
 
 The homepage displays as this. 
 
-![Search Results] (search_results.png)
+![Search Results](search_results.png)
 
 To filter your search, you would enter an input(s) into either fields. For example, if I am interested in UFO sightings on 1/11/2010 and in Florida, I'd enter '1/11/2010' in Date field and 'fl' in State field.
 
